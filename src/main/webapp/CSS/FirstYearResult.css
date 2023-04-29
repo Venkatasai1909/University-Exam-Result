@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.label{
+	width:360px;
+	text-align:start;
+	margin-left:10px;
+}
+.container{
+	width:550px;
+	background-color:white;
+	height:600px;
+	margin-top:10px;
+	padding-top:10px;
+	box-shadow:2px 2px 4px;
+	border-radius:2px;
+}
+.container :hover{
+	box-shadow:1px 1px 2px #f005;
+}

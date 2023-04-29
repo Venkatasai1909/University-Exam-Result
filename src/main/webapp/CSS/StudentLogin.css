@@ -1,0 +1,13 @@
+
+
+
+.container
+{
+   height:400px;
+   width:300px;
+   background:#6666ff;
+   box-shadow:2px 2px 2px;
+   border-radius:2px;
+   margin-top:100px;
+   padding-top:20px;
+}
